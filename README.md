@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/elzaw97" target="blank"><img src="https://img.shields.io/twitter/follow/elzaw97?logo=twitter&style=for-the-badge" alt="elzaw97" /></a> </p>
 
-- 🔭 I’m currently working on [JumiaClone](https://github.com/elzaw/jumiaClone.git)
+- 🔭 I’m currently working on JumiaClone [Frontend](https://github.com/mohanadhassan1/jumia-main.git) [Backend] (https://github.com/mohanadhassan1/jumia-apis.git)
 
 - 🌱 I’m currently learning **Next.js , Nest.js , Socket.io**
 
@@ -17,8 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/elzaw97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elzaw97" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/mahmoud elzaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud elzaw" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
